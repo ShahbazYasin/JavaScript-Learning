@@ -145,7 +145,7 @@ document.write("<li>Comperision Operators</li>") //topic 11
 
 // console.log(a <= b);
 
-// document.write("<li>If Statement</li>") //topic 12
+document.write("<li>If Statement</li>") //topic 12
 
 // var a = 200;
 // var b = 30;
@@ -155,4 +155,21 @@ document.write("<li>Comperision Operators</li>") //topic 11
 // }else
 // {
 //     console.log("Not equal");
+// }
+
+
+
+document.write("<li>Logical Operators</li>") //topic 12
+
+// Operator        Name 
+// &&              Logical AND 
+// ||              Logical OR 
+// !               Logical NOT 
+
+// var a = 10;
+// var b = 20;
+// if(a > b){
+//         console.log("You are eligible");
+// }else{
+//     console.log("you are not eligible");
 // }
